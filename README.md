@@ -1,7 +1,7 @@
-<h1 align="center">𒉭 HIDARI1 𒉭</h1>
+<h1 align="center">𒉭 ...... 𒉭</h1>
 
 <p align="center">
-  Passionné de tech • Curieux infini • Univers Berserk & Code 🤍
+  Passionné de tech • Curieux  • Passionné par le monde du jeux vidéo & Esport
 </p>
 
 ---
@@ -10,8 +10,7 @@
 
 [![guns.lol](https://img.shields.io/badge/Portfolio-guns.lol%2F2s__-black?style=for-the-badge&logo=vercel)](https://guns.lol/2s__)
 
-### 🧨 Boutique / Serveur Unlock All
-
+### 🧨 Boutique 
 [![Discord](https://img.shields.io/discord/1200000000000000000?label=Mon%20Serveur%20Unlock%20All&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/rDNk7zb6Z9)
 
 ---
@@ -23,19 +22,6 @@
 - 💬 **Réseaux sociaux** : croissance, boost, communication ciblée
 
 ---
-
-### 🧠 Compétences acquises
-
-```yaml
-- Programmation Python
-- Algorithmique en Java
-- Manipulation bas niveau avec ARM (simulateur ULaval)
-- HTML / CSS de base pour structure de page web
-- Utilisation de Git, GitHub, gestion de versions
-- Lignes de commande Linux (bash, fichiers, droits, scripts...)
-- Systèmes : Windows / Linux
-- Notions de cybersécurité et de modding
-```
 
 ---
 
