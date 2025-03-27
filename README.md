@@ -57,7 +57,7 @@
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIDARI1&layout=compact&theme=tokyonight&hide_border=true)
 
-![Visitors](https://komarev.com/ghpvc/?username=HIDARI1&label=Profil%20Views&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=HIDARI1&label=Profil%20000Views&color=blue&style=flat-square)
 
 ---
 
