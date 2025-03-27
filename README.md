@@ -41,30 +41,30 @@
 
 ### 🔧 Compétences Tech
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux" />
-</div>
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Comp%C3%A9tences+Tech&fontSize=15&icons=python,java,html,css,git,github,linux&theme=dark" alt="Compétences Tech" />
+</p>
 
 <table>
   <tr>
     <td><b>Python</b></td>
-    <td><img src="https://progress-bar.dev/80/?title=Maîtrise&width=300&color=3b82f6" /></td>
+    <td><img src="https://img.shields.io/badge/Niveau%2080%25-blue?style=for-the-badge"/></td>
   </tr>
   <tr>
     <td><b>HTML/CSS</b></td>
-    <td><img src="https://progress-bar.dev/60/?title=Maîtrise&width=300&color=f97316" /></td>
+    <td><img src="https://img.shields.io/badge/Niveau%2060%25-orange?style=for-the-badge"/></td>
   </tr>
   <tr>
     <td><b>Java</b></td>
-    <td><img src="https://progress-bar.dev/40/?title=Maîtrise&width=300&color=facc15" /></td>
+    <td><img src="https://img.shields.io/badge/Niveau%2040%25-yellow?style=for-the-badge"/></td>
   </tr>
   <tr>
     <td><b>Git / GitHub</b></td>
-    <td><img src="https://progress-bar.dev/75/?title=Maîtrise&width=300&color=10b981" /></td>
+    <td><img src="https://img.shields.io/badge/Niveau%2075%25-green?style=for-the-badge"/></td>
   </tr>
   <tr>
     <td><b>ARM / Low-level</b></td>
-    <td><img src="https://progress-bar.dev/40/?title=Maîtrise&width=300&color=8b5cf6" /></td>
+    <td><img src="https://img.shields.io/badge/Niveau%2040%25-purple?style=for-the-badge"/></td>
   </tr>
 </table>
 
