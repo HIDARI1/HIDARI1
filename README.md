@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td><b>ARM / Low-level</b></td>
-    <td><img src="https://img.shields.io/badge/Niveau%205025-purple?style=for-the-badge"/></td>
+    <td><img src="https://img.shields.io/badge/Niveau%2050%25-purple?style=for-the-badge"/></td>
   </tr>
 </table>
 
