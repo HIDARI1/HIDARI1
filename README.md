@@ -38,7 +38,6 @@
 - Systèmes : Windows / Linux
 - Notions de cybersécurité et de modding
 ```
-
 ---
 
 ### 🔧 Compétences Tech
