@@ -4,6 +4,8 @@
   Passionné de tech • Curieux infini • Univers Berserk & Code 🤍
 </p>
 
+<img src="https://i.imgur.com/WXG7W7W.gif" width="100%" alt="berserk banner"/>
+
 ---
 
 ### 👁‍🗨️ Portfolio
@@ -21,6 +23,21 @@
 - 🔧 **Informatique** : toujours en train d'apprendre et d'explorer
 - 🎮 **Jeux vidéo** : bonne connaissance du milieu gaming et des systèmes
 - 💬 **Réseaux sociaux** : croissance, boost, communication ciblée
+
+---
+
+### 🧠 Compétences acquises
+
+```yaml
+- Programmation Python
+- Algorithmique en Java
+- Manipulation bas niveau avec ARM (simulateur ULaval)
+- HTML / CSS de base pour structure de page web
+- Utilisation de Git, GitHub, gestion de versions
+- Lignes de commande Linux (bash, fichiers, droits, scripts...)
+- Systèmes : Windows / Linux
+- Notions de cybersécurité et de modding
+```
 
 ---
 
@@ -43,6 +60,8 @@
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HIDARI1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIDARI1&layout=compact&theme=tokyonight&hide_border=true)
+
+![Visitors](https://komarev.com/ghpvc/?username=HIDARI1&label=Profil%20Views&color=blue&style=flat-square)
 
 ---
 
