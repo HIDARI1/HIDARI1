@@ -4,8 +4,6 @@
   Passionné de tech • Curieux infini • Univers Berserk & Code 🤍
 </p>
 
-<img src="https://imgur.com/a/nv71By5.gif" width="100%" alt="berserk banner"/>
-
 ---
 
 ### 👁‍🗨️ Portfolio
@@ -38,17 +36,37 @@
 - Systèmes : Windows / Linux
 - Notions de cybersécurité et de modding
 ```
+
 ---
 
 ### 🔧 Compétences Tech
 
-| Compétence        | Niveau            |
-|--------------------|-------------------|
-| Python             | 🕺🕺🕺🕺⬜ |
-| HTML/CSS           | 🕺🕺🕺⬜⬜ |
-| Java               | 🕺🕺⬜⬜⬜ |
-| Git / GitHub       | 🕺🕺🕺🕺⬜ |
-| ARM / Low-level    | 🕺🕺⬜⬜⬜ |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux" />
+</div>
+
+<table>
+  <tr>
+    <td><b>Python</b></td>
+    <td><img src="https://progress-bar.dev/80/?title=Maîtrise&width=300&color=3b82f6" /></td>
+  </tr>
+  <tr>
+    <td><b>HTML/CSS</b></td>
+    <td><img src="https://progress-bar.dev/60/?title=Maîtrise&width=300&color=f97316" /></td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td><img src="https://progress-bar.dev/40/?title=Maîtrise&width=300&color=facc15" /></td>
+  </tr>
+  <tr>
+    <td><b>Git / GitHub</b></td>
+    <td><img src="https://progress-bar.dev/75/?title=Maîtrise&width=300&color=10b981" /></td>
+  </tr>
+  <tr>
+    <td><b>ARM / Low-level</b></td>
+    <td><img src="https://progress-bar.dev/40/?title=Maîtrise&width=300&color=8b5cf6" /></td>
+  </tr>
+</table>
 
 > 🌟 J'apprends tous les jours. Mon style est inspiré de **Berserk** : sombre, sobre, puissant.
 
