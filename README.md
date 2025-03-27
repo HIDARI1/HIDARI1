@@ -4,7 +4,7 @@
   Passionné de tech • Curieux infini • Univers Berserk & Code 🤍
 </p>
 
-<img src="https://i.imgur.com/WXG7W7W.gif" width="100%" alt="berserk banner"/>
+<img src="https://imgur.com/a/nv71By5.gif" width="100%" alt="berserk banner"/>
 
 ---
 
